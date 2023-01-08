@@ -13,7 +13,18 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=subhadip-saha-05&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=subhadip-saha-05&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=subhadip-saha-05&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=subhadip-saha-05&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+
+
+<div align="center">
+	<img src="https://cdn.jsdelivr.net/gh/subhadip-saha-05/subhadip-saha-05/assets/github-contribution-grid-snake.svg" />
+</div>
+
+<div align="center">
+    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=subhadip-saha-05&theme=github"/>
+</div>
+
+
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=SubhadipSuDi)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
