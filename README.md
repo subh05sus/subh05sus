@@ -36,4 +36,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=subhadip-saha-05&icon=1&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+   ![visitors](https://visitor-badge.glitch.me/badge?page_id=subhadip-saha-05.subhadip-saha.05&left_color=green&right_color=red)
