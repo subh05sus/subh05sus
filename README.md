@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Programmer from India</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Python Voice Assistant<br><br>🌱 I’m currently learning C, C++<br><br>
+🔭 I’m currently working on Python Voice Assistant<br><br>🌱 My Fav Language is Python 😊<br><br>I’m currently learning C, C++<br><br>
 <img align="right" src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif">
 
 ## 🌐 Socials:
