@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&center=true&vCenter=true&width=435&lines=A+passionate+Programmer+from+India;Project+Admin+of+SWOC'23;Co-founder+of+DevDotCom)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Jurredr&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=subhadip-saha-05&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
 
 # 💫 About Me:
 🔭 I’m currently working on Python Voice Assistant<br><br>🌱 My Fav Language is Python 😊<br><br>I’m currently learning C, C++<br><br>
@@ -10,7 +10,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=subhadip-saha-05&icon=1&color=11)](https://visitcount.itsvg.in)
 
-   ![visitors](https://visitor-badge.glitch.me/badge?page_id=subhadip-saha-05.subhadip-saha.05&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=subhadip-saha-05.subhadip-saha.05&left_color=green&right_color=red)
 
 [![GitHub stars](https://img.shields.io/github/stars/subhadip-saha-05/python-voice-assistant.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/subhadip-saha-05/python-voice-assistant/stargazers/)
 
