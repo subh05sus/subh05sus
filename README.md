@@ -9,6 +9,8 @@
 
    ![visitors](https://visitor-badge.glitch.me/badge?page_id=subhadip-saha-05.subhadip-saha.05&left_color=green&right_color=red)
 
+[![GitHub stars](https://img.shields.io/github/stars/subhadip-saha-05/python-voice-assistant.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/subhadip-saha-05/python-voice-assistant/stargazers/)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/subhadip_notfound) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhadipsahaofficial) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SubhadipSuDi) 
 
@@ -38,3 +40,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
+
+
