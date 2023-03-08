@@ -49,22 +49,22 @@
 
 <p align="center">
   <a>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Subhadip-saha-05&theme=github_dark"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhadip-saha-05&theme=github_dark"/>
   </a>
    <a>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Subhadip-saha-05&theme=github_dark"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhadip-saha-05&theme=github_dark"/>
   </a>
      <a>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Subhadip-saha-05&theme=github_dark&utcOffset=8"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subhadip-saha-05&theme=github_dark&utcOffset=8"/>
   </a><br>
      <a>
-    <img src="https://api.githubtrends.io/user/svg/Subhadip-saha-05/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark"/>
+    <img src="https://api.githubtrends.io/user/svg/subhadip-saha-05/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark"/>
   </a>
      <a>
-    <img src="https://api.githubtrends.io/user/svg/Subhadip-saha-05/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark"/>
+    <img src="https://api.githubtrends.io/user/svg/subhadip-saha-05/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark"/>
   </a><br>
   <a>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subhadip-saha-05&theme=dark&hide_border=false"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhadip-saha-05&theme=dark&hide_border=false"/>
   </a>
 </p>
 
