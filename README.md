@@ -4,7 +4,7 @@
 
 <p>
   <a>
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=subhadip-saha-05&data=followers,repositories,stars,commits&theme=darkmode" align="center"/>
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=Subhadip-saha-05&data=followers,repositories,stars,commits&theme=darkmode" align="center"/>
   </a>
   </p>
 
@@ -29,9 +29,9 @@
 </p>
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=subhadip-saha-05.subhadip-saha.05&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Subhadip-saha-05.Subhadip-saha.05&left_color=green&right_color=red)
 
-[![GitHub stars](https://img.shields.io/github/stars/subhadip-saha-05/python-voice-assistant.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/subhadip-saha-05/python-voice-assistant/stargazers/)
+[![GitHub stars](https://img.shields.io/github/stars/Subhadip-Saha-05/python-voice-assistant.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Subhadip-Saha-05/python-voice-assistant/stargazers/)
 
 
 
@@ -40,7 +40,7 @@
 [![My Skills](https://skillicons.dev/icons?i=py,gcp,c,cpp,html,discord,git,github,unity,visualstudio)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhadip-saha-05&theme=github_dark)<br/>
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Subhadip-saha-05&theme=github_dark)<br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhadip-saha-05&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subhadip-saha-05&theme=github_dark&utcOffset=8)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=subhadip-saha-05&theme=dark&hide_border=false)<br/>
@@ -49,22 +49,22 @@
 
 <p align="center">
   <a>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhadip-saha-05&theme=github_dark"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Subhadip-saha-05&theme=github_dark"/>
   </a>
    <a>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhadip-saha-05&theme=github_dark"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Subhadip-saha-05&theme=github_dark"/>
   </a>
      <a>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subhadip-saha-05&theme=github_dark&utcOffset=8"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Subhadip-saha-05&theme=github_dark&utcOffset=8"/>
   </a><br>
      <a>
-    <img src="https://api.githubtrends.io/user/svg/subhadip-saha-05/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark"/>
+    <img src="https://api.githubtrends.io/user/svg/Subhadip-saha-05/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark"/>
   </a>
      <a>
-    <img src="https://api.githubtrends.io/user/svg/subhadip-saha-05/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark"/>
+    <img src="https://api.githubtrends.io/user/svg/Subhadip-saha-05/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark"/>
   </a><br>
   <a>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhadip-saha-05&theme=dark&hide_border=false"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subhadip-saha-05&theme=dark&hide_border=false"/>
   </a>
 </p>
 
