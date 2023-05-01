@@ -32,7 +32,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=subhadip-saha-05.Subhadip-saha.05&left_color=green&right_color=red)
 
 [![GitHub stars](https://img.shields.io/github/stars/Subhadip-Saha-05/python-voice-assistant.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Subhadip-Saha-05/python-voice-assistant/stargazers/)
-
+[![subhadipsaha's GitHub | Stats](https://stats.quine.sh/subhadipsaha/github?theme=dark)](https://quine.sh)
 
 
 
@@ -48,7 +48,6 @@
 ![](https://api.githubtrends.io/user/svg/subhadip-saha-05/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark) -->
 
 <p align="center">
-  [![subhadipsaha's GitHub | Stats](https://stats.quine.sh/subhadipsaha/github?theme=dark)](https://quine.sh)
   <a>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhadip-saha-05&theme=github_dark"/>
   </a>
