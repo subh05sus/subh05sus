@@ -29,15 +29,16 @@
 </p>
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=subhadip-saha-05.Subhadip-saha.05&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=subhadip-saha-05.subhadip-saha-05&left_color=green&right_color=red)
 
-[![GitHub stars](https://img.shields.io/github/stars/Subhadip-Saha-05/python-voice-assistant.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Subhadip-Saha-05/python-voice-assistant/stargazers/)
+[![GitHub stars](https://img.shields.io/github/stars/subhadip-saha-05/python-voice-assistant.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Subhadip-Saha-05/python-voice-assistant/stargazers/)
 [![subhadipsaha's GitHub | Stats](https://stats.quine.sh/subhadipsaha/github?theme=dark)](https://quine.sh)
 
 
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=py,gcp,c,cpp,html,discord,git,github,unity,visualstudio)](https://skillicons.dev)
+
 
 # 📊 GitHub Stats:
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Subhadip-saha-05&theme=github_dark)<br/>
