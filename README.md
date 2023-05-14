@@ -2,75 +2,33 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&center=true&vCenter=true&width=435&lines=A+passionate+Programmer+from+India;Project+Admin+of+SWOC'23;Co-founder+of+DevDotCom)
 
-<p>
-  <a>
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=Subhadip-saha-05&data=followers,repositories,stars,commits&theme=darkmode" align="center"/>
-  </a>
-  </p>
-
 # 💫 About Me:
-🔭 I’m currently working on Python Voice Assistant<br><br>🌱 My Fav Language is Python 😊<br><br>I’m currently learning C, C++<br><br>
-
-### 🌐 Socials:
-
-<p align="center">
-  <a href="https://twitter.com/SubhadipSuDi">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
-  </a>
-  <a href="https://www.linkedin.com/in/subhadipsahaofficial">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/subh05sus_">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100072942589743">
-    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=071A2C" alt="Facebook"/>
-  </a>
-</p>
+🔭 I’m currently working on SUZUME OPEN-WORLD GAME<br>🌱 I’m currently learning DSA & 3D MODELING<br>💬 Ask me about GAME DEVELOPMENT<br>⚡ Fun fact: I AM LAZY
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=subhadip-saha-05.subhadip-saha-05&left_color=green&right_color=red)
-
-[![GitHub stars](https://img.shields.io/github/stars/subhadip-saha-05/python-voice-assistant.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Subhadip-Saha-05/python-voice-assistant/stargazers/)
-[![subhadipsaha's GitHub | Stats](https://stats.quine.sh/subhadipsaha/github?theme=dark)](https://quine.sh)
-
-
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/subh05sus_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhadipsahaofficial) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SubhadipSuDi) 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=py,gcp,c,cpp,html,discord,git,github,unity,visualstudio)](https://skillicons.dev)
-
-
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 # 📊 GitHub Stats:
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Subhadip-saha-05&theme=github_dark)<br/>
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhadip-saha-05&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subhadip-saha-05&theme=github_dark&utcOffset=8)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=subhadip-saha-05&theme=dark&hide_border=false)<br/>
-![](https://api.githubtrends.io/user/svg/subhadip-saha-05/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)
-![](https://api.githubtrends.io/user/svg/subhadip-saha-05/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark) -->
+![](https://github-readme-stats.vercel.app/api?username=subh05sus&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=subh05sus&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=subh05sus&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
-  <a>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhadip-saha-05&theme=github_dark"/>
-  </a>
-   <a>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhadip-saha-05&theme=github_dark"/>
-  </a>
-     <a>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subhadip-saha-05&theme=github_dark&utcOffset=8"/>
-  </a><br>
-     <a>
-    <img src="https://api.githubtrends.io/user/svg/subhadip-saha-05/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark"/>
-  </a>
-     <a>
-    <img src="https://api.githubtrends.io/user/svg/subhadip-saha-05/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark"/>
-  </a><br>
-  <a>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhadip-saha-05&theme=dark&hide_border=false"/>
-  </a>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=subh05sus&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=SubhadipSuDi)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=subh05sus&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+---
+[![](https://visitcount.itsvg.in/api?id=subh05sus&icon=2&color=12)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=SubhadipSuDi)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
