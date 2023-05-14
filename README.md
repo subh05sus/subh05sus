@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm Subhadip Saha</h1>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&center=true&vCenter=true&width=435&lines=A+passionate+Programmer+from+India;Project+Admin+of+SWOC'23;Co-founder+of+DevDotCom)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&center=false&vCenter=true&width=450&lines=Newbie+Game+Developer;Python+Backend+Developer;Graphic+Designer+@SSOC'23;Co-founder+of+DevDotCom;A+community+with+more+than+500+members)
+
 
 # 💫 About Me:
 🔭 I’m currently working on SUZUME OPEN-WORLD GAME<br>🌱 I’m currently learning DSA & 3D MODELING<br>💬 Ask me about GAME DEVELOPMENT<br>⚡ Fun fact: I AM LAZY
 
+
+![](https://github-stats-alpha.vercel.app/api?username=subh05sus&cc=000&tc=fff&ic=fff&bc=000 "profile")
+<br/>
 
 
 ## 🌐 Socials:
@@ -39,11 +43,19 @@
 <!-- 
  [![profile](https://github-stats-alpha.vercel.app/api?username=subh05sus&cc=000&tc=fff&ic=fff&bc=000 "profile")](https://github-stats-alpha.vercel.app/api?username=subh05sus&cc=000&tc=fff&ic=fff&bc=000 "profile") -->
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=subh05sus&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=subh05sus&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=subh05sus&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
+</div>
 
+
+
+<!-- 
 ![](https://github-stats-alpha.vercel.app/api?username=subh05sus&cc=000&tc=fff&ic=fff&bc=000 "profile")
-<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=subh05sus&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=subh05sus&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<br/> -->
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=subh05sus&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=subh05sus&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=subh05sus&theme=radical&no-frame=true&no-bg=false&margin-w=4)
@@ -60,5 +72,9 @@
 ## 🎵 Spotify Recently Played
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31uv34x3wbw2xbpgj3row4yve6iu)
 ---
+
+
+
+
 
 
