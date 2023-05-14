@@ -19,21 +19,13 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=subh05sus&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=SubhadipSuDi)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=subh05sus&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
 [![](https://visitcount.itsvg.in/api?id=subh05sus&icon=2&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=SubhadipSuDi)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ## 🎵 Spotify Recently Played
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31uv34x3wbw2xbpgj3row4yve6iu)
