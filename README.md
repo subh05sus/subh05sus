@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm Subhadip Saha</h1>
+<div align="center">
+   <h1>Hi there, I'm Subhadip <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   
+   
+   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
+</div>
+
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&center=false&vCenter=true&width=450&lines=Newbie+Game+Developer;Python+Backend+Developer;Graphic+Designer+@SSOC'23;Co-founder+of+DevDotCom;A+community+with+more+than+500+members)
 
@@ -72,7 +78,6 @@
 ## 🎵 Spotify Recently Played
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31uv34x3wbw2xbpgj3row4yve6iu)
 ---
-
 
 
 
