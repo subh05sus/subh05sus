@@ -25,7 +25,7 @@
 # 💻 Tech Stack:
 
 
-[![My Skills](https://skillicons.dev/icons?i=unity,c,cs,cpp,html,css,py,replit,django,flask,firebase,ps,pr,ae,postman,figma,gcp,blender,git,bash,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity,c,cs,cpp,html,css,py,replit,django,flask,firebase,ps,pr,ae,postman,figma,gcp,blender,git,bash,visualstudio,vscode)]
 
 
 # 📊 GitHub Stats:
