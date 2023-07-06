@@ -6,7 +6,7 @@
 </div>
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&center=false&vCenter=true&width=450&lines=Newbie+Game+Developer;Python+Backend+Developer;Graphic+Designer+@SSOC'23;Co-founder+of+DevDotCom;A+community+with+more+than+500+members)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&center=false&vCenter=true&width=450&lines=Newbie+Game+Developer;Python+Backend+Developer;Freelance+Graphic+Designer;Co-founder+of+DevDotCom;A+community+with+more+than+500+members)
 
 
 # 💫 About Me:
