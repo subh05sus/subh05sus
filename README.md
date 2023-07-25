@@ -8,7 +8,7 @@
 
 
 # 💫 About Me:  
-🥰You can call me Subh<br>🔭 I’m currently working on SUZUME OPEN-WORLD GAME<br>🌱 I’m currently learning DSA & 3D MODELING<br>💬 Ask me about GAME DEVELOPMENT<br>⚡ Fun fact: I AM LAZY
+🥰You can call me Subh<br>🔭 I’m currently working on SpeedyBoi Game<br>🌱 I’m currently learning DSA & 3D MODELING<br>💬 Ask me about GAME DEVELOPMENT<br>⚡ Fun fact: I AM LAZY
 
 
 ![](https://github-stats-alpha.vercel.app/api?username=subh05sus&cc=000&tc=fff&ic=fff&bc=000 "profile")
