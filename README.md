@@ -55,8 +55,6 @@
 [![](https://visitcount.itsvg.in/api?id=subh05sus&icon=2&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=SubhadipSuDi)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 
 ## 🎵 Spotify Recently Played
