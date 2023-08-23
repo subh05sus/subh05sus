@@ -7,6 +7,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&center=false&vCenter=true&width=450&lines=Newbie+Game+Developer;Python+Backend+Developer;Freelance+Graphic+Designer;Co-founder+of+DevDotCom;A+community+with+more+than+500+members)
 
+![Code Time](http://img.shields.io/badge/Code%20Time-2C370%20hrs%207%20mins-blue)
 
 # 💫 About Me:  
 🥰You can call me Subh<br>🔭 I’m currently working on SpeedyBoi Game<br>🌱 I’m currently learning DSA & 3D MODELING<br>💬 Ask me about GAME DEVELOPMENT<br>⚡ Fun fact: I AM LAZY
