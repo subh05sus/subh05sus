@@ -6,7 +6,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&center=false&vCenter=true&width=450&lines=Game+Developer;Python+Backend+Developer;NodeJS+Developer;Freelancer;Founder+of+DevDotCom;A+community+with+more+than+1000+members)
 
 # 💫 About Me:  
-🥰You can call me Subh<br>🔭 I’m currently working on Rush n'Smash Game<br>🔨 Building [DevDotCom](https://devdotcom.netlify.app)<br>💬 Ask me about GAME DEVELOPMENT<br>🔍Freelance Graphic Designer and Video Editor⚡<br> Fun fact: I AM LAZY<br>⏰ Winner of [StatusCode0(MLH Hackathon)](https://devfolio.co/statuscode0/dashboard) <br><br>
+🥰You can call me Subh<br>🔭 I’m currently working on Rush n'Smash Game<br>🔨 Building [DevDotCom](https://devdotcom.netlify.app)<br>💬 Ask me about GAME DEVELOPMENT<br>🔍Freelance Graphic Designer and Video Editor<br>⏰ Winner of [StatusCode0(MLH Hackathon)](https://devfolio.co/statuscode0/dashboard) <br><br>
 
 
 
