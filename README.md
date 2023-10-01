@@ -1,14 +1,14 @@
 <div align="center">
-   <h1>Hi there, I'm Subhadip <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-   
-   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
-</div>
+   <h1>Hi there, I'm Subhadip Saha</h1>
+   </div>
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&center=false&vCenter=true&width=450&lines=Newbie+Game+Developer;Python+Backend+Developer;Freelance+Graphic+Designer;Co-founder+of+DevDotCom;A+community+with+more+than+500+members)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&center=false&vCenter=true&width=450&lines=Game+Developer;Python+Backend+Developer;NodeJS+Developer;Freelancer;Founder+of+DevDotCom;A+community+with+more+than+1000+members)
 
 # 💫 About Me:  
-🥰You can call me Subh<br>🔭 I’m currently working on SpeedyBoi Game<br>🌱 I’m currently learning DSA & 3D MODELING<br>💬 Ask me about GAME DEVELOPMENT<br>⚡ Fun fact: I AM LAZY
+🥰You can call me Subh<br>🔭 I’m currently working on Rush n'Smash Game<br>🔨 Building [DevDotCom](https://devdotcom.netlify.app)<br>💬 Ask me about GAME DEVELOPMENT<br>🔍Freelance Graphic Designer and Video Editor⚡<br> Fun fact: I AM LAZY<br>⏰ Winner of [StatusCode0(MLH Hackathon)](https://devfolio.co/statuscode0/dashboard) <br><br>
+
+
 
 
 ![](https://github-stats-alpha.vercel.app/api?username=subh05sus&cc=000&tc=fff&ic=fff&bc=000 "profile")
