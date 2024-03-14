@@ -49,7 +49,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=subh05sus&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-
+<img src="https://raw.githubusercontent.com/subh05sus/subh05sus/output/snake.svg" alt="Snake animation" />
 
 [![](https://visitcount.itsvg.in/api?id=subh05sus&icon=2&color=12)](https://visitcount.itsvg.in)
 
