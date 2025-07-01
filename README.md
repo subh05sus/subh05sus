@@ -20,8 +20,8 @@ I'm Subhadip (you can call me Subh) — a passionate developer, game designer, a
 Currently, I'm an ISRO Research Intern, leading DevDotCom (2k+ members), and building next-gen games, web apps, and AI tools.
 
 - 💡 **Focus:** Game Development • Full-Stack Engineering • Community Building
-- 🏆 **Achievements:** MLH, Smart India Hackathon, JISTECH Winner, Hashnode Featured
-- 🌱 **Interests:** Generative AI, AR/VR, Scalable Platforms, Developer Experience
+- 🏆 **Achievements:** **StatusCode0 MLH Hackathon Winner, Smart India Hackathon 2024 Winner, JISTECH Winner, Featured on Hashnode**
+- 🌱 **Interests:** Fullstack Web Development, Generative AI, AR/VR, Scalable Platforms, Developer Experience
 - 👥 **Let’s Connect:** [LinkedIn](https://linkedin.com/in/subhadipsahaofficial)
 
 ---
@@ -73,18 +73,11 @@ Currently, I'm an ISRO Research Intern, leading DevDotCom (2k+ members), and bui
   <img src="https://raw.githubusercontent.com/subh05sus/subh05sus/output/snake.svg" alt="Snake animation" />
 </p>
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=subh05sus&icon=2&color=12" />
-  </a>
-</p>
 
 ---
 
 ## 🎵 Spotify Recently Played
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31uv34x3wbw2xbpgj3row4yve6iu&unique={true|1|on|yes})
-## 🎵 Spotify Recently Played
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31uv34x3wbw2xbpgj3row4yve6iu&unique={true|1|on|yes})
 
 <!--
