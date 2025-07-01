@@ -6,13 +6,13 @@
   </p>
 </div>
 
----
+
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&center=false&vCenter=true&width=450&lines=🚀+B.Tech+CS+%7C+ISRO+Intern+2025;👾+Game+Developer+%E2%80%93+Unity+and+AR+Enthusiast;🧑‍💻+Full-Stack+Engineer+(TypeScript%2C+React%2C+Node.js);🌐+Founder+%40+DevDotCom+%28+2k%2B+members+%29;🏆+MLH%2C+SIH%2C+JISTech+Winner+%7C+Featured+on+Hashnode;🎨+Freelancer%3A+Design%2C+Video%2C+Web;🤝+Community+Lover+%7C+Speaker+%7C+Hackathon+Builder)
 
 
 
----
+
 
 ## 🌟 About Me
 
