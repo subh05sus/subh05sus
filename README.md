@@ -22,7 +22,7 @@ Currently, I'm an ISRO Research Intern, leading DevDotCom (2k+ members), and bui
 - 💡 **Focus:** Game Development • Full-Stack Engineering • Community Building
 - 🏆 **Achievements:** **StatusCode0 MLH Hackathon Winner, Smart India Hackathon 2024 Winner, JISTECH Winner, Featured on Hashnode**
 - 🌱 **Interests:** Fullstack Web Development, Generative AI, AR/VR, Scalable Platforms, Developer Experience
-- 👥 **Let’s Connect:** [LinkedIn](https://linkedin.com/in/subhadipsahaofficial)
+- 👥 **Let’s Connect:** [LinkedIn](https://linkedin.com/in/subhadipsahaofficial) [X](https://x.com/that_webdev_guy)
 
 ---
 
@@ -42,7 +42,7 @@ Currently, I'm an ISRO Research Intern, leading DevDotCom (2k+ members), and bui
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/subh05sus_) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhadipsahaofficial) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SubhadipDev) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/that_webdev_guy) 
 
 ---
 
