@@ -47,6 +47,11 @@ I enjoy solving hard engineering problems, building reliable automation, and shi
 <br/>
 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/subh05sus/subh05sus/output/snake.svg" alt="Snake animation" />
+</p>
+
+
 ## 🎵 Spotify Recently Played
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31uv34x3wbw2xbpgj3row4yve6iu&unique={true|1|on|yes})
