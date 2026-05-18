@@ -46,24 +46,6 @@ I enjoy solving hard engineering problems, building reliable automation, and shi
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subh05sus&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" height="150" />
-  <img src="https://streak-stats.demolab.com?user=subh05sus&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SUBH05SUS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=14&theme=dracula&hide_border=false" height="200" />
-</div>
-
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=subh05sus&theme=radical&no-frame=true&no-bg=false&margin-w=4">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/subh05sus/subh05sus/output/snake.svg" alt="Snake animation" />
-</p>
-
 
 ## 🎵 Spotify Recently Played
 
