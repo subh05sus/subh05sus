@@ -65,8 +65,6 @@ I enjoy solving hard engineering problems, building reliable automation, and shi
 </p>
 
 
----
-
 ## 🎵 Spotify Recently Played
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31uv34x3wbw2xbpgj3row4yve6iu&unique={true|1|on|yes})
