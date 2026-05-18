@@ -1,4 +1,4 @@
-![GitHub Banner](./banner.webp)
+![GitHub Banner](./banner.png)
 
 # Hi, I'm Subhadip Saha
 
