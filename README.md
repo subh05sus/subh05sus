@@ -8,7 +8,7 @@ I enjoy solving hard engineering problems, building reliable automation, and shi
 
 <br/>
 
-# 💫 About Me:
+# About Me:
 
 - 💼 SDE - I @ [Outbox.vc](https://outbox.vc/) · Working on [Zapmail.ai](https://zapmail.ai/)
 - 🚀 Ex Research & Developer Intern @ [ISRO](https://www.sac.gov.in/Vyom/)
