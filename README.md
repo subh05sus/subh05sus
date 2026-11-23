@@ -10,8 +10,9 @@ I enjoy solving hard engineering problems, building reliable automation, and shi
 
 # About Me:
 
-- 💼 SDE - I @ [Outbox.vc](https://outbox.vc/) · Working on [Zapmail.ai](https://zapmail.ai/)
-- 🚀 Ex Research & Developer Intern @ [ISRO](https://www.sac.gov.in/Vyom/)
+- 💼 Founding Engineer (FDE) @ [Sparkmentis AI](https://sparkmentis.ai/) · Working on [Sparkmentis](https://app.sparkmentis.ai/) and [Sparkmentor](https://sparkmentor.sparkmentis.ai/)
+- 💼 Ex - SDE - I @ [Outbox.vc](https://outbox.vc/) · Working on [Zapmail.ai](https://zapmail.ai/)
+- 🚀 Ex -  Research & Developer Intern @ [ISRO](https://www.sac.gov.in/Vyom/)
 - 🏗️ Co-Founder @ [DevDotCom](https://www.devdotcom.tech/)
 - 💻 Fullstack Developer @ [Nexfellow](https://nexfellow.com/)
 - 🎮 Fullstack Developer @ [GeekClash](https://www.instagram.com/geekclash/)
